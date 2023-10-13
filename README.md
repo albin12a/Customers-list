@@ -10,7 +10,7 @@ after cloning the project
   - You would see the validation messages when the name or email field is empty
   - You could see the submitted details in the browser console
 
-# What excited me of doing this
+# What excited me while doing this
   I have enjoyed it while creating this app because after a while I have done a project fully and alone. Also I have used some customized functionality other than depending on third party packages
 
 
