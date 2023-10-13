@@ -1,3 +1,17 @@
+# steps to run the project
+after cloning the project
+  npm i 
+  npm run dev
+  paste this on browser http://localhost:8000
+  You can see the list of customers in a table
+  You can edit the customer details by clicking the each list of customer
+  One modal would open with details and you could edit and press submit button
+  You would see the validation messages when the name or email field is empty
+  You could see the submitted details in the browser console
+
+  I have enjoyed it while creating this app because after a while I have done a project fully and alone. Also I have used some customized functionality other than depending on third party packages
+
+
 # Wave Front-end Challenge
 
 The purpose of this exercise is to create something that we can work on together during the onsite interview. We do this so that you get a chance to

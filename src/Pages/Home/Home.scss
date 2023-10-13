@@ -1,0 +1,10 @@
+.main-wrapper{
+    .title{
+        font-size: 2.5rem;
+        color: #242424;
+        text-align: center;
+        @media only screen and (max-width: 768px) {
+            font-size: 1.5rem;
+        }
+    }
+}
